@@ -1,10 +1,11 @@
-# Bug_report
+# Bag_report
 {
   "ID": "1",
   "Project": "hyperauto.ru",
   "Version": "1.0",
   "Environment": "Win10_Google Chrome ver.96.0.4664.45",
-  "Title": "An error in the spelling of the word IDEMITSU in the name of the engine oil",
+  "Title": "A mistake in the word",
+  "Summary": "An error in the spelling of the word IDEMITSU in the name of the engine oil",
   "Steps": {
     "First step": "1)Follow the link: https://hyperauto.ru/product/maslo-motornoe-idemitsu-zepro-eco-medalist-0w20-sinteticheskoe-sn-gf-5-dlya-benzinovogo-dvigatelya-4l-00000146",
     "Second step": "2)Check the name of the engine oil"},
